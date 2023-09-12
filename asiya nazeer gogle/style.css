@@ -1,0 +1,32 @@
+*{
+    font-family: "times new roman";
+}
+h1{
+    text-align: center;
+}
+.formm{
+    margin-left: 500px;
+    margin-top: 100px;
+    border: 2px solid black;
+    padding: 30px;
+    margin-right: 300px;
+    align-items: center;
+}
+form input{
+    width: 200px;
+    height: 25px;
+    background-color: rgb(253, 252, 250);
+}
+form label{
+    font-size: 20px;
+}
+button{
+    background-color: rgb(66, 240, 138);
+    border-color: rgb(57, 136, 64);
+    color: rgb(57, 136, 64);
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    align-self: center;
+    
+}
